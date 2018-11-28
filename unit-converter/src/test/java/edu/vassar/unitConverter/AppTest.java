@@ -1,4 +1,4 @@
-package edu.vassar.unit-converter;
+package edu.vassar.unitConverter;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

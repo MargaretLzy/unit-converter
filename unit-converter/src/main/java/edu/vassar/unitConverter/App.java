@@ -1,4 +1,4 @@
-package edu.vassar.unit-converter;
+package edu.vassar.unitConverter;
 
 /**
  * Hello world!

@@ -11,6 +11,7 @@ package edu.vassar.unitConverter;
  */
 public interface PrintResult {
     
-    public String printResult(double result);
+    public String printResult(double result); 
+    // in the format "Input: unit_value --> Output: unit_value
     
 }

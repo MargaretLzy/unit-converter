@@ -1,12 +1,47 @@
 2.2 Product Functions
 
 	Summarize the major functions the product must perform or must let the user perform. Details will be provided in Section 3, so only a high level summary (such as a bullet list) is needed here. Organize the functions to make them understandable to any reader of the SRS. A picture of the major groups of related requirements and how they relate, such as a top level data flow diagram or object class diagram, is often effective.
-	And in Section 3, don’t address all the subsections. Just describe the specification in English and point  make sure that you read the contents of each section which are filled with information that would typically go in there.
+	And in Section 3, don’t address all the subsections. Just describe the specification in English and point  make sure that you read the contents of each section which are filled with information that would typically go in there
+ 
 
+Product Function: 
 
 This product converts measurements from the imperial system to the metric system and vice versa. As of 4 December 2018, it will convert distance, area, volume, and temperature. 
 
 User Interfaces: Makes a dialogue where the user makes selections that determine what they want to convert from and the value, and something to display target unit.
 More info TBD
 
+<<<<<<< HEAD
 For this project, because we have four categories of conversions (area, volume, etc), each of us is writing a class that handles the conversions for that category. We will also write a "pizza factory" class that creates a converter object at runtime based on the user input. Whoever does the temperature conversions will handle this "pizza factory" class. 
+=======
+
+
+
+--------------------------------------------------------
+List of what needs to be included in IEEE Specification: 
+
+Must Include
+    >2.2 Product function 
+
+Included in section 3; cover if relevant 
+    >3 Specific Requirements 
+    >3.1 External interfaces
+    >3.2 Functions 
+    >3.3 Performance requirements 
+    >3.4 Logical database requirements 
+    >3.6 Software system attributes
+    >3.6.1 Reliability
+    >3.6.2 Availability 
+    >3.6.3 Security
+    >3.6.4 Maintainability 
+    >3.6.5 Portability 
+    >3.7 Organizing specific requirements
+    >3.7.1 System Mode
+    >3.7.2 User class
+    >3.7.3 Objects 
+    >3.7.4 Feature
+    >3.7.5 Stimulus
+    >3.7.6 Response 
+    >3.7.7 Functional Hiearchy 
+    >3.8 Additional Comments
+>>>>>>> 73d9a2b8adbee70b8086a1fbd827f3a099c99d78

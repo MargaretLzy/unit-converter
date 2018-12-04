@@ -3,3 +3,8 @@ This is our final Project for CS-203. It is a unit converter. We will do most re
 For now, let's start small, quality over quantity. We can discuss it more. Let's start with:
 - feet to meters
 - cups to liters
+
+Potential design decisions
+- classes for number, interface, and caluculator
+- user navigates menu/dialogue boxes to input data
+- seperate factories for length, volume, mass...

@@ -8,3 +8,5 @@ This product converts measurements from the imperial system to the metric system
 
 User Interfaces: Makes a dialogue where the user makes selections that determine what they want to convert from and the value, and something to display target unit.
 More info TBD
+
+For this project, because we have four categories of conversions (area, volume, etc), each of us is writing a class that handles the conversions for that category. We will also write a "pizza factory" class that creates a converter object at runtime based on the user input. Whoever does the temperature conversions will handle this "pizza factory" class. 

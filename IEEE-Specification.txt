@@ -4,3 +4,32 @@ Summarize the major functions the product must perform or must let the user perf
 
 And in Section 3, don’t address all the subsections. Just describe the specification in English
  and point  make sure that you read the contents of each section which are filled with information that would typically go in there.
+
+
+Must Include
+    >2.2 Product function 
+
+Included in section 3; cover if relevant 
+    >3 Specific Requirements 
+    >3.1 External interfaces
+    >3.2 Functions 
+    >3.3 Performance requirements 
+    >3.4 Logical database requirements 
+    >3.6 Software system attributes
+    >3.6.1 Reliability
+    >3.6.2 Availability 
+    >3.6.3 Security
+    >3.6.4 Maintainability 
+    >3.6.5 Portability 
+    >3.7 Organizing specific requirements
+    >3.7.1 System Mode
+    >3.7.2 User class
+    >3.7.3 Objects 
+    >3.7.4 Feature
+    >3.7.5 Stimulus
+    >3.7.6 Response 
+    >3.7.7 Functional Hiearchy 
+    >3.8 Additional Comments
+
+
+ 

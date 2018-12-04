@@ -14,17 +14,17 @@ public class TemperatureConverter {
 
   // F = C * (9/5) + 32
   public double celsiusToFahrenheit(double input) {
-    return 0.0;
+    return input * (9/5) + 32;
   }
 
   // C = (F - 32) * (9/5)
   public double fahrenheitToCelsius(double input) {
-    return 0.0;
+    return (input - 32) * (9/5);
   }
 
   // K = C + 273.15
   public double celsiusToKelvin(double input) {
-    return 0.0;
+    return input + 273.15;
   }
 
   // C = K - 273.15
@@ -34,12 +34,12 @@ public class TemperatureConverter {
 
   // K = (F + 459.67) * (5/9)
   public double fahrenheitToKelvin(double input) {
-    return 0.0;
+    return (input + 459.67) * (5/9);
   }
 
   // F = K * (9/5) - 459.67
   public double kelvinToFahrenheit(double input) {
-    return 0.0;
+    return input * (9/5) - 459.67;
   }
 
 }
